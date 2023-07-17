@@ -29,5 +29,5 @@ This repository and its contents are licensed under the [Creative Commons Attrib
 
 We encourage you to explore the resources in this repository, ask questions, and provide feedback. Together, let's foster innovation, transform businesses, and create a more equitable and democratic future!
 
-For more information, please visit our [website](link-to-website) or contact us at [email@example.com](mailto:email@example.com).
+For more information, please visit our [website](link-to-website) or contact us at [agilemindinnovations@gmail.com](mailto:agilemindinnovations@gmail.com).
 
